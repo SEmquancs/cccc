@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\learnCSHARP\baithuchanh3\obj\Debug\baithuchanh3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\learnCSHARP\baithuchanh3\bin\Debug\baithuchanh3.exe.config
+C:\Users\Admin\source\repos\learnCSHARP\baithuchanh3\bin\Debug\baithuchanh3.exe
+C:\Users\Admin\source\repos\learnCSHARP\baithuchanh3\bin\Debug\baithuchanh3.pdb
+C:\Users\Admin\source\repos\learnCSHARP\baithuchanh3\obj\Debug\baithuchanh3.exe
+C:\Users\Admin\source\repos\learnCSHARP\baithuchanh3\obj\Debug\baithuchanh3.pdb
+C:\Users\Admin\source\repos\learnCSHARP\baithuchanh3\obj\Debug\baithuchanh3.csproj.AssemblyReference.cache
